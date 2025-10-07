@@ -41,6 +41,3 @@ Licensed under the MIT License
 
 💬 Feedback
 If you liked this project or have suggestions, feel free to reach out at [anchal3789@gmail.com](mailto:anchal3789@gmail.com) or ⭐ star the repository on GitHub!
-💬 Feedback
-
-If you liked this project or have suggestions, feel free to reach out or star ⭐ the repository on GitHub!
